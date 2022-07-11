@@ -1,1 +1,2 @@
 pyupbit
+polygon-api-client==1.1.0
