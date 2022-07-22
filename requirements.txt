@@ -8,3 +8,4 @@ ipykernel
 pandas-datareader
 pyjwt
 python-dotenv
+python-twitter
