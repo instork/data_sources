@@ -2,3 +2,4 @@ pyupbit
 investpy
 polygon-api-client==1.1.0
 tweepy
+GoogleNews
