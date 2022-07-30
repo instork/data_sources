@@ -3,3 +3,9 @@ investpy
 polygon-api-client==1.1.0
 tweepy
 GoogleNews
+wordcloud
+bs4
+requests
+nltk
+jpype1==1.3.0
+konlpy==0.6.0
